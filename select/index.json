@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ナモナキヒト",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-16T15:18:38.150102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ナモナキヒト",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_ナモナキヒト_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナモナキヒト",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_ナモナキヒト_amazarashi.txt"
+    }
+  ]
+}
